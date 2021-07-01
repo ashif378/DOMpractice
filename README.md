@@ -1,1 +1,1 @@
-# DOMpractice
+# DOM Manipulation Practice
